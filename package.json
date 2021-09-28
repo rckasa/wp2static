@@ -32,8 +32,8 @@
     "webpack-cli": "^3.3.5"
   },
   "dependencies": {
-    "i": "^0.3.6",
-    "npm": "^6.9.2"
+    "i": "^0.3.7",
+    "npm": "^7.0.0"
   },
   "jest": {
     "preset": "jest-puppeteer",
